@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2d62c161f6dc14fd7ae8aeb6be599964f706c242">
+        sha1="ecc9f8e4cd72cf9c91ebb832c6d6ee120aafc2c9">
         <dex dex="/Users/oscarricaud/MobileAppsExam1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6647c2a4475ce31aeaaeb0b8208f4cb055e0d1bf/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d528f26ccffd9044fb524b86d51e80b3c460eb11">
+        sha1="667548196f7ecb31250c144d6a7931a6f3d3f89f">
         <dex dex="/Users/oscarricaud/MobileAppsExam1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7b1a816802c2144709dd9beb67076af7d5513769/classes.dex" />
     </item>
     <item
