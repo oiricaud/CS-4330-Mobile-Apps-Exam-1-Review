@@ -34,5 +34,8 @@ public class MainActivity extends AppCompatActivity {
         yCoordinate = (TextView) findViewById(R.id.textViewY);
         xCoordinate.setText(String.valueOf(x));
         yCoordinate.setText(String.valueOf(y));
+        canvasView.setxDraw(x);
+        canvasView.setyDraw(y);
+        canvasView.drawHere();
     }
 }
